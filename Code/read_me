@@ -1,0 +1,22 @@
+Read Me:
+
+The Following Files Contain THe Code The Replicate The Results
+
+All The Codes Use Links To The Data Retrieved In Earlier Files During The Thesis Which is Stored Either In This GitHub or Can Be Downloaed From Google Drive.
+Furthermore in Each Code, Where A Dataset is Exported in The Original Code; There is Created a Variable Save = False/True, Which Creates The Oppurtinity To Save Files On Your PC.
+Hereby You Can Replace The Original Files With More Recent Files :)
+
+The Most Important Code Is P4: Which Estimates The Pricing Models and Demonstrative Maps.
+
+Overview Codes:
+P0: Webscraper For Idealista
+P1: Creating Housing-Specific Variables From The Idealista Data
+P2: Collecting The Sustainable Data as in Table 6 of The Thesis
+P3: Creating Sustainable Variables From The Sustainable Data
+P4: Estimating The Pricing Models and Constructing Demonstrative Maps
+
+For Additional Information:
+
+The Thesis is Included in This Repository;
+
+Otherwise Send an E-mail to: NielsBox1@gmail.com
